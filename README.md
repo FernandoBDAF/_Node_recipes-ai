@@ -1,3 +1,1 @@
-.env
-
-OPENAI_API_KEY = 
+add to env the OPENAI_API_KEY = 
